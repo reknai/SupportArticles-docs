@@ -19,7 +19,7 @@ This article discusses connection issues to an Azure Kubernetes Service (AKS) cl
 
 Connection issues to the API server can occur for many reasons, but the root cause is often related to an error with one of these items:
 
-- Network
+- Network 
 - Authentication
 - Authorization
 
