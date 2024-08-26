@@ -11,7 +11,7 @@ ms.custom: sap:Connectivity
 
 This article discusses connection issues to an Azure Kubernetes Service (AKS) cluster when you can't reach the cluster's API server through the Kubernetes cluster command-line tool ([kubectl](https://kubernetes.io/docs/reference/kubectl/overview/)) or any other tool, such as using REST API through a programming language.
 
-## Prerequisites
+## Prerequisites 
 
 - [Azure CLI](/cli/azure/install-azure-cli).
 
