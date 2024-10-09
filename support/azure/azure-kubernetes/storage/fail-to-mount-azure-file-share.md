@@ -375,7 +375,7 @@ nslookup <storage-account-name>.privatelink.file.core.windows.net
 
 If the FQDN is resolved via a public IP address (see the following screenshot), create a virtual network link for the VNET of the AKS cluster at the private DNS zone ("privatelink.file.core.windows.net") level. Note that a virtual network link is already automatically created for the VNET of the storage account's private endpoint.
 
-:::image type="content" source="media/fail-to-mount-azure-file-share/verify-fqdn-resolved.png" alt-text="Screenshot that shows FQDN is resolved by a public IP address.":::
+:::image type="content" source="media/fail-to-mount-azure-file-share/verify-fqdn-resolved2.png" alt-text="Screenshot that shows FQDN is resolved by a public IP address.":::
 
 To create the virtual network link, follow these steps:
 
